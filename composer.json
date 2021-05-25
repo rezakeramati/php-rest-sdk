@@ -1,5 +1,5 @@
 {
-    "name": "ippanel/php-rest-sdk",
+    "name": "reza/php-rest-sdk",
     "description": "IPPanel REST API client",
     "type": "library",
     "homepage": "https://github.com/ippanel/php-rest-sdk",

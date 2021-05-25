@@ -87,7 +87,7 @@ class HTTPClient
      */
     public function request(
         $method = "GET",
-        $url,
+        $url = null,
         $data = null,
         $params = null,
         $headers = null
